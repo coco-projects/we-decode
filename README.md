@@ -1,1 +1,9 @@
-# we-decode
+## usage
+
+see examples folder
+
+---
+
+## License
+
+MIT
